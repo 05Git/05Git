@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @05Git
-- 👀 I’m a game programmer currently working on projects in Unreal and Unity
+- 👋 Hi, I’m Oscar @05Git
+- 👀 I’m a game dev currently working on projects in Unreal and Unity
 - 💞️ I’m looking to collaborate on open source projects or game jams
 - 📫 Hit me up here or my email omsellors98@gmail.com if you want to collab on anything
 
